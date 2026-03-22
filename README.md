@@ -80,9 +80,3 @@ Raw Dataset
 
 Due to file size limitations, a sample dataset is included.  
 The original dataset contains ~1.6 million records.
-
----
-
-## 👤 Author
-
-Ayush Samarth
