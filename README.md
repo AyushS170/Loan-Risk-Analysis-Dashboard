@@ -72,7 +72,7 @@ Raw Dataset
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](/images/Dashboard.png)
 
 ---
 
