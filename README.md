@@ -75,6 +75,12 @@ Raw Dataset
 ![Dashboard](/images/Dashboard.png)
 
 ---
+## 📚 Key Learnings
+
+- Built an end-to-end data pipeline using Python, SQL, and Power BI  
+- Performed risk segmentation using financial metrics  
+- Understood how borrower behavior impacts credit risk  
+- Learned how to present business insights through dashboards
 
 ## ⚠️ Note
 
